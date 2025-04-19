@@ -52,4 +52,11 @@ No user authentication or login required – the app is ready to use as soon as 
 - **JavaScript** – Handling API calls and DOM updates  
 - **OpenWeatherMap API** – For fetching real-time weather data  
 - **Visual Studio Code** – Code editor used for development  
-- **Git & GitHub** – Version control and code hosting platform  
+- **Git & GitHub** – Version control and code hosting platform
+
+  **Deployment**
+
+This project is hosted live and can be accessed anytime using the following link:
+
+🔗 **Live Demo:** [Click Here to View Weather App](https://vinodinideshetti.github.io/weather-web-app/)
+
