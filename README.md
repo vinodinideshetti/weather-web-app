@@ -59,4 +59,16 @@ No user authentication or login required – the app is ready to use as soon as 
 This project is hosted live and can be accessed anytime using the following link:
 
 🔗 **Live Demo:** [Click Here to View Weather App](https://vinodinideshetti.github.io/weather-web-app/)
+**Screenshots**
+
+**Weather Home Screen**
+![Weather Home](assets/weather-home.png.png)
+
+**Weather Data Example**
+![Weather Data](assets/weather-data.png.png)
+
+**Error Display (Invalid City)**
+![Weather Error](assets/weather-error.png.png)
+
+
 
